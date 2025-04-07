@@ -1,5 +1,5 @@
 # HR_DataAnalytics
-# 📊 HR Analytics Dashboard - Atliq Corp
+# 📊 HR Analytics Dashboard - Atliq 
 
 This project presents an **HR Analytics Dashboard** built in **Power BI** using masked employee data from **Atliq Corp**. The dashboard helps HR professionals analyze workforce data such as employee distribution, attrition rates, department performance, and key HR KPIs for strategic decision-making.
 
@@ -29,7 +29,4 @@ This project presents an **HR Analytics Dashboard** built in **Power BI** using 
 
 
 
-```html
-<p align="center">
-  <img src="assets/hr_dashboard_preview.png" width="600"/>
-</p>
+
