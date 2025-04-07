@@ -6,12 +6,8 @@ This project presents an **HR Analytics Dashboard** built in **Power BI** using 
 ---
 
 ## 📁 File Info
-
-- **File Name**: `HR Analytics Atliq_masked.pbix`
-- **Tool Used**: Microsoft Power BI
-- **Dataset Type**: Masked (Privacy Preserved)
-- **Project Goal**: To provide interactive insights into HR operations
-
+- `HR Analytics Atliq_masked.pbix` – Power BI Dashboard File
+- `Attendance Sheet 2022-2023_Masked.xlsx` – Excel file containing anonymized attendance records
 ---
 
 ## 🎯 Key Insights
